@@ -2,6 +2,5 @@
 A new Friday Night Funkin' mod people should download.
 
 # Current team
-pinkkix
-
+pinkkix <br>
 judahcburke
