@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"wake",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"middle-school",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lawyer",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "School Day",
+	"weekName": "School Day",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

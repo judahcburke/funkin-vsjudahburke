@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-tao.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a instance 10000" x="0" y="0" width="111" height="98"/>
+	<SubTexture name="d instance 10000" x="188" y="0" width="110" height="102"/>
+</TextureAtlas>

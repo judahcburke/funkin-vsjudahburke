@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kaitobg.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kaitobg instance 10000" x="0" y="0" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10001" x="292" y="0" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10002" x="584" y="0" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10003" x="0" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10004" x="0" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10005" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10006" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10007" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10008" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10009" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10010" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10011" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10012" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10013" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10014" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10015" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10016" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10017" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10018" x="292" y="448" width="219" height="375"/>
+	<SubTexture name="kaitobg instance 10019" x="292" y="448" width="219" height="375"/>
+</TextureAtlas>

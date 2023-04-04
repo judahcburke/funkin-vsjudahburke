@@ -1,0 +1,8 @@
+Rewind Time
+
+Value1 = How many beats to change
+Value2:
+1 = Rewind
+anything else = Forward
+
+i hope this works :(

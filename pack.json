@@ -1,0 +1,7 @@
+{
+	"name": "VS. Judah Burke",
+	"description": "Turn this mod on, and the game will change.",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

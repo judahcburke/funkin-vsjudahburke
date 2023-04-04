@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speaker.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf dance instance 10000" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10001" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10002" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10003" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10004" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10005" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10006" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10007" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10008" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10009" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10010" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10011" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10012" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10013" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10014" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10015" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10016" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10017" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10018" x="0" y="0" width="302" height="302"/>
+	<SubTexture name="gf dance instance 10019" x="0" y="0" width="302" height="302"/>
+</TextureAtlas>

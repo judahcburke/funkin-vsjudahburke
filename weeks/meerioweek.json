@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Meerio64",
+			"meerio",
+			[
+				255,
+				0,
+				80
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "...",
+	"weekName": "meerio",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

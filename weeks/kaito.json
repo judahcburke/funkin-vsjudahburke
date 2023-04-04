@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Kaito",
+			"kaito",
+			[
+				255,
+				0,
+				93
+			]
+		],
+		[
+			"Abnormal",
+			"kaito",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"Illusion",
+			"kaito",
+			[
+				226,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Kaito's Hangout",
+	"weekName": "Kaito",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "schoolday",
+	"startUnlocked": true
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacebar_icon.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar_icon instance 10000" x="0" y="0" width="498" height="249"/>
+	<SubTexture name="spacebar_icon instance 10001" x="0" y="0" width="498" height="249"/>
+	<SubTexture name="spacebar_icon instance 10002" x="0" y="322" width="498" height="249"/>
+	<SubTexture name="spacebar_icon instance 10003" x="0" y="322" width="498" height="249"/>
+</TextureAtlas>
